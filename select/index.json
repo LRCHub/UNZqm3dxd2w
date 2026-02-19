@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "The Box",
+  "base_artist": "Roddy Ricch",
+  "createdAt": "2026-02-19T15:31:18.401035Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Box",
+      "artist": "Orbital",
+      "has_synced": false,
+      "path": "select/01_The_Box_Orbital.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Box - Part 2",
+      "artist": "Orbital",
+      "has_synced": false,
+      "path": "select/02_The_Box_-_Part_2_Orbital.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Box (Bump 'n Grind remix)",
+      "artist": "Orbital",
+      "has_synced": false,
+      "path": "select/03_The_Box_(Bump_'n_Grind_remix)_Orbital.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Man In The Box",
+      "artist": "Alice In Chains",
+      "has_synced": false,
+      "path": "select/04_Man_In_The_Box_Alice_In_Chains.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Think Outside The Box",
+      "artist": "Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/05_Think_Outside_The_Box_Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Think Outside The Box",
+      "artist": "The Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/06_Think_Outside_The_Box_The_Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bitch in the Box",
+      "artist": "Anvil",
+      "has_synced": true,
+      "path": "select/07_Bitch_in_the_Box_Anvil.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Box",
+      "artist": "Annihilator",
+      "has_synced": false,
+      "path": "select/08_The_Box_Annihilator.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Box (demo)",
+      "artist": "Annihilator",
+      "has_synced": false,
+      "path": "select/09_The_Box_(demo)_Annihilator.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Box",
+      "artist": "Johnny Flynn",
+      "has_synced": true,
+      "path": "select/10_The_Box_Johnny_Flynn.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Back In The Box",
+      "artist": "David Byrne",
+      "has_synced": false,
+      "path": "select/11_Back_In_The_Box_David_Byrne.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Box",
+      "artist": "Roddy Ricch",
+      "has_synced": true,
+      "path": "select/12_The_Box_Roddy_Ricch.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Back in the Box",
+      "artist": "Hawkwind",
+      "has_synced": false,
+      "path": "select/13_Back_in_the_Box_Hawkwind.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Take The Box - Live At Concorde, Brighton / 2008",
+      "artist": "Amy Winehouse",
+      "has_synced": true,
+      "path": "select/14_Take_The_Box_-_Live_At_Concorde,_Brighton___2008_Amy_Winehouse.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Take The Box - Seijis Buggin' Mix",
+      "artist": "Amy Winehouse",
+      "has_synced": false,
+      "path": "select/15_Take_The_Box_-_Seijis_Buggin'_Mix_Amy_Winehouse.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Take The Box - Live At Kalkscheune / Berlin",
+      "artist": "Amy Winehouse",
+      "has_synced": true,
+      "path": "select/16_Take_The_Box_-_Live_At_Kalkscheune___Berlin_Amy_Winehouse.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Take The Box - Live at Kalkscheune (Berlin)",
+      "artist": "Amy Winehouse",
+      "has_synced": true,
+      "path": "select/17_Take_The_Box_-_Live_at_Kalkscheune_(Berlin)_Amy_Winehouse.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Box",
+      "artist": "Roddy Ricch",
+      "has_synced": false,
+      "path": "select/pl_01_The_Box_Roddy_Ricch.txt"
+    }
+  ]
+}
